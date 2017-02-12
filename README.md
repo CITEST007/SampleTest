@@ -1,2 +1,2 @@
 # SampleTest
-Sample program which contains hello world 
+Program which print HelloWorld
